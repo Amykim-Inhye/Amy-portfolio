@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Amy_Portfolio/static/css/main.f790d662.css",
+    "main.js": "/Amy_Portfolio/static/js/main.28771bea.js",
+    "static/media/cooking-mockup.jpg": "/Amy_Portfolio/static/media/cooking-mockup.f18cbb4e222a26e9070a.jpg",
+    "static/media/todo-app.gif": "/Amy_Portfolio/static/media/todo-app.1747bed24be03576ded3.gif",
+    "static/media/project2.jpeg": "/Amy_Portfolio/static/media/project2.b4849eccb246c37ff961.jpeg",
+    "static/media/intro-bg.jpeg": "/Amy_Portfolio/static/media/intro-bg.670273c77f41342bcc2f.jpeg",
+    "static/media/react.png": "/Amy_Portfolio/static/media/react.57fdd4cc242da0a7e195.png",
+    "static/media/database.jpeg": "/Amy_Portfolio/static/media/database.55ca340a1a7749fd6bab.jpeg",
+    "index.html": "/Amy_Portfolio/index.html",
+    "main.f790d662.css.map": "/Amy_Portfolio/static/css/main.f790d662.css.map",
+    "main.28771bea.js.map": "/Amy_Portfolio/static/js/main.28771bea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f790d662.css",
+    "static/js/main.28771bea.js"
+  ]
+}
